@@ -101,13 +101,13 @@ public class Pedro {
 
 | Project | Description |
 |---|---|
-| Discord Bots | Advanced Discord bots with automation and integrations |
-| Ranked BedWars | Ranking, statistics and matchmaking system |
-| Creator Payments | PIX payment automation platform |
-| Management Dashboard | Complete administration panel |
-| Spring Boot APIs | REST APIs with authentication and databases |
-| Cyber Security | Web security and ethical hacking studies |
-| Personal Projects | Full Stack applications and SaaS ideas |
+| 🤖 Discord Bots | Advanced Discord bots with automation and integrations |
+| ⚔️ Ranked BedWars | Ranking, statistics and matchmaking system |
+| 💳 Creator Payments | PIX payment automation platform |
+| 📊 Management Dashboard | Complete administration panel |
+| ☁️ Spring Boot APIs | REST APIs with authentication and databases |
+| 🔐 Cyber Security | Web security and ethical hacking studies |
+| 🚀 Personal Projects | Full Stack applications and SaaS ideas |
 
 ---
 
@@ -138,9 +138,9 @@ Never stop coding.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pxthedev&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pxthedev&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxthedev&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxthedev&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&hide_border=false"/>
 
 </div>
 
