@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=PEDRO%20VOLTARELLI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:171717,100:404040&text=PEDRO%20VOLTARELLI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;JAVA+BACKEND+DEVELOPER;DISCORD+BOT+DEVELOPER;FULL+STACK+%7C+CYBER+SECURITY;WELCOME+TO+MY+CODE+UNIVERSE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;JAVA+BACKEND+DEVELOPER;DISCORD+BOT+DEVELOPER;FULL+STACK+%7C+CYBER+SECURITY;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
 </div>
 
 ---
 
-# 🤖 PX SYSTEM CORE
+# ⚫ PX SYSTEM CORE
 
 ```bash
 ╭────────────────────────────╮
@@ -25,7 +25,7 @@ Initializing system...
 ✔ Database connected
 ✔ Security modules enabled
 
-STATUS: ONLINE 🚀
+STATUS: ONLINE
 ```
 
 ---
@@ -41,7 +41,7 @@ public class Pedro {
 
     private final String role = "Backend Developer";
 
-    private final String location = "São Paulo, Brazil 🇧🇷";
+    private final String location = "São Paulo, Brazil";
 
     String[] backend = {
         "Java",
@@ -99,15 +99,15 @@ public class Pedro {
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 💡 Description |
-|------------|----------------|
-| 🤖 Discord Bots | Advanced Discord bots with automation and integrations |
-| ⚔️ Ranked BedWars | Ranking, statistics and matchmaking system |
-| 💳 Creator Payments | PIX payment automation platform |
-| 📊 Management Dashboard | Complete administration panel |
-| ☁️ Spring Boot APIs | REST APIs with authentication and databases |
-| 🔐 Cyber Security | Web security and ethical hacking studies |
-| 🚀 Personal Projects | Full Stack applications and SaaS ideas |
+| Project | Description |
+|---|---|
+| Discord Bots | Advanced Discord bots with automation and integrations |
+| Ranked BedWars | Ranking, statistics and matchmaking system |
+| Creator Payments | PIX payment automation platform |
+| Management Dashboard | Complete administration panel |
+| Spring Boot APIs | REST APIs with authentication and databases |
+| Cyber Security | Web security and ethical hacking studies |
+| Personal Projects | Full Stack applications and SaaS ideas |
 
 ---
 
@@ -138,9 +138,9 @@ Never stop coding.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pxthedev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pxthedev&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxthedev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxthedev&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333"/>
 
 </div>
 
@@ -148,7 +148,7 @@ Never stop coding.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pxthedev&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pxthedev&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff&border=333333"/>
 
 </div>
 
@@ -158,7 +158,7 @@ Never stop coding.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pxthedev&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pxthedev&theme=darkhub&no-frame=true&margin-w=15&column=7"/>
 
 </div>
 
@@ -168,7 +168,7 @@ Never stop coding.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pxthedev&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pxthedev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true"/>
 
 </div>
 
@@ -189,11 +189,11 @@ Never stop coding.
 <div align="center">
 
 <a href="https://github.com/pxthedev">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
@@ -202,10 +202,10 @@ Never stop coding.
 
 <div align="center">
 
-## 💜 "Turning ideas into scalable software."
+## "Turning ideas into scalable software."
 
-<img src="https://komarev.com/ghpvc/?username=pxthedev&style=for-the-badge&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=pxthedev&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,50:171717,100:404040"/>
