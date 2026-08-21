@@ -134,56 +134,6 @@ Never stop coding.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pxthedev&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxthedev&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&hide_border=false"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pxthedev&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff&border=333333"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pxthedev&theme=darkhub&no-frame=true&margin-w=15&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pxthedev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pxthedev/pxthedev/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🌎 Connect With Me
 
 <div align="center">
