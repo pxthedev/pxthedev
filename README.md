@@ -91,7 +91,7 @@ public class Pedro {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,nodejs,python,mysql,sqlite,supabase,git,github,docker,idea,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,python,mysql,sqlite,supabase,git,github,docker&perline=8"/>
 
 </div>
 
